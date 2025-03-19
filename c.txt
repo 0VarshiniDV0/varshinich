@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+  int a=10,b=20,sum,sub,multi,divi;
+  sum=a+b;
+  printf("The sum is:%d",sum);
+  sub=a-b;
+  printf("the sub is:%d",sub);
+  multi=a*b;
+  printf("the multi is:%d",multi);
+  divi=a/b;
+  printf("the divi is:%d",divi);
+  return 0;
+ }
